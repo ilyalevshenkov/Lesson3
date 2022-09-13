@@ -1,0 +1,15 @@
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/bin/Debug/net6.0/Ex21
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/bin/Debug/net6.0/Ex21.deps.json
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/bin/Debug/net6.0/Ex21.runtimeconfig.json
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/bin/Debug/net6.0/Ex21.dll
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/bin/Debug/net6.0/Ex21.pdb
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/obj/Debug/net6.0/Ex21.csproj.AssemblyReference.cache
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/obj/Debug/net6.0/Ex21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/obj/Debug/net6.0/Ex21.AssemblyInfoInputs.cache
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/obj/Debug/net6.0/Ex21.AssemblyInfo.cs
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/obj/Debug/net6.0/Ex21.csproj.CoreCompileInputs.cache
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/obj/Debug/net6.0/Ex21.dll
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/obj/Debug/net6.0/refint/Ex21.dll
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/obj/Debug/net6.0/Ex21.pdb
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/obj/Debug/net6.0/Ex21.genruntimeconfig.cache
+/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex21/obj/Debug/net6.0/ref/Ex21.dll
