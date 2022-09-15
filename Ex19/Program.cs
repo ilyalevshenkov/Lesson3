@@ -3,14 +3,14 @@
 // 12821 -> да
 // 23432 -> да
 
-//определение длины числа(чтобы проверять паллидромы не только 5 чисел)
+//Определение длины числа
 int GetWholeDigitCount(int x)
 {
     int count = 1;
     while ((x /= 10) > 0) ++count;
     return count;
 }
-//вариант без для любого числа.
+
 string CheckPalindrome(int x)
 {
 
@@ -36,8 +36,6 @@ string CheckPalindrome(int x)
     {
         return "нет";
     }
-
-
 }
 
 // вариант с массивом 
@@ -75,7 +73,7 @@ Console.Write("Введите число: ");
 int num = int.Parse(Console.ReadLine());
 
 //вариант 1
-//string result = CheckPalindrome(num);
+// string result = CheckPalindrome(num);
 
 //вариант 2
 string result = CheckPalindrome2(num);

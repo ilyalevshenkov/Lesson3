@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex19/Ex19.csproj",
+      "projectUniqueName": "/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/Lesson3/Ex/Ex19/Ex19.csproj",
       "projectName": "Ex19",
-      "projectPath": "/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex19/Ex19.csproj",
+      "projectPath": "/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/Lesson3/Ex/Ex19/Ex19.csproj",
       "packagesPath": "/Users/ilyalevshenkov/.nuget/packages/",
-      "outputPath": "/Users/ilyalevshenkov/Desktop/IT Обучение/Знакомство C#/Lesson3/Ex/Ex19/obj/",
+      "outputPath": "/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/Lesson3/Ex/Ex19/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ilyalevshenkov/.nuget/NuGet/NuGet.Config"
